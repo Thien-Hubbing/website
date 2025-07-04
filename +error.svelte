@@ -7,19 +7,19 @@
 		<meta name="description" content="Thien's personal website" />
 		<meta name="author" content="Bored Thien"/>
 		
-		<link rel="modulepreload" href="/website/_app/immutable/entry/start.DTSI1rPH.js">
-		<link rel="modulepreload" href="/website/_app/immutable/chunks/DnOIZg7m.js">
-		<link rel="modulepreload" href="/website/_app/immutable/chunks/DwdJZTVv.js">
-		<link rel="modulepreload" href="/website/_app/immutable/chunks/DH2D-Xtb.js">
-		<link rel="modulepreload" href="/website/_app/immutable/entry/app.B8qf6BUb.js">
-		<link rel="modulepreload" href="/website/_app/immutable/chunks/BJJVAYM1.js">
-		<link rel="modulepreload" href="/website/_app/immutable/chunks/D3LHNqmJ.js">
+		<link rel="modulepreload" href="/website/_app/immutable/entry/start.yf_09fdo.js">
+		<link rel="modulepreload" href="/website/_app/immutable/chunks/DMr-YOO5.js">
+		<link rel="modulepreload" href="/website/_app/immutable/chunks/CKALpPNn.js">
+		<link rel="modulepreload" href="/website/_app/immutable/chunks/DtBeWfwv.js">
+		<link rel="modulepreload" href="/website/_app/immutable/entry/app.DoG02By5.js">
+		<link rel="modulepreload" href="/website/_app/immutable/chunks/DNXygkN0.js">
+		<link rel="modulepreload" href="/website/_app/immutable/chunks/BlvGdGcG.js">
 	</head>
 	<body data-sveltekit-preload-data="hover">
 		<div style="display: contents">
 			<script>
 				{
-					__sveltekit_15yjs3h = {
+					__sveltekit_1ihr2ym = {
 						base: "/website",
 						assets: "/website"
 					};
@@ -27,8 +27,8 @@
 					const element = document.currentScript.parentElement;
 
 					Promise.all([
-						import("/website/_app/immutable/entry/start.DTSI1rPH.js"),
-						import("/website/_app/immutable/entry/app.B8qf6BUb.js")
+						import("/website/_app/immutable/entry/start.yf_09fdo.js"),
+						import("/website/_app/immutable/entry/app.DoG02By5.js")
 					]).then(([kit, app]) => {
 						kit.start(app, element);
 					});
