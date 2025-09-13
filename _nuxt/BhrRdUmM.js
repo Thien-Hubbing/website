@@ -1,0 +1,1 @@
+import{B as e,G as t,N as n}from"#entry";import{t as r}from"./CjDlg6bj.js";var i=e({__name:`index`,setup(e){return(e,i)=>(t(),n(r))}});export{i as default};
